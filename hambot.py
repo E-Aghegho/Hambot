@@ -187,19 +187,9 @@ def hambot(length = 5, starter = False):
         new_word = random.choice(random.choice(list(hamdict.values())))
     
     
-    return (",".join(phrase)).replace(",", " ")
+    print( (",".join(phrase)).replace(",", " "))
 
-hambot(9, )
-
-
-# In[18]:
+return
 
 
-hambot(10, "and")
-
-
-# In[17]:
-
-
-hambot(7, "die")
 
