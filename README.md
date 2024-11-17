@@ -17,6 +17,15 @@ This script requires the `collections` library. You can install it using pip:
 pip install collections
 
 ```
+## Usage (hambot.ipynb)
+1. Clone or download this repository.
+2. Save the script (hambot.ipynb) in your desired location.
+3. Upload it from your desired location into your Jupyter Notebook.
+
+##Tips
+- Ensure you have the necessary libraries (```collections```, ```random```) installed within your Jupyter environment.
+- Use the "Kernel" menu in Jupyter to restart the kernel if you encounter any errors.
+
 ## Usage (hambot.py)
 1. Clone or download this repository.
 2. Save the script (hambot.py) in your desired location.
@@ -45,14 +54,5 @@ Or choose you favourite argument!:
 ```bash
 python hambot.py --length 19
 ```
-
-## Usage (hambot.ipynb)
-1. Clone or download this repository.
-2. Save the script (hambot.ipynb) in your desired location.
-3. Upload it from your desired location into your Jupyter Notebook.
-
-Tips
-- Ensure you have the necessary libraries (```collections```, ```random```) installed within your Jupyter environment.
-- Use the "Kernel" menu in Jupyter to restart the kernel if you encounter any errors.
 
 [View the code before you download it!](https://github.com/E-Aghegho/Hambot/blob/main/hambot.ipynb)
