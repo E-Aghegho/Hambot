@@ -22,7 +22,7 @@ pip install collections
 2. Save the script (hambot.ipynb) in your desired location.
 3. Upload it from your desired location into your Jupyter Notebook.
 
-##Tips
+### Tips
 - Ensure you have the necessary libraries (```collections```, ```random```) installed within your Jupyter environment.
 - Use the "Kernel" menu in Jupyter to restart the kernel if you encounter any errors.
 
