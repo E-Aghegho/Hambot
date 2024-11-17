@@ -14,7 +14,7 @@ This Python script generates Shakespearean-sounding phrases using a Markov chain
 This script requires the `collections` library. You can install it using pip:
 
 ```bash
-pip install collections`
+pip install collections
 
 ```
 ## Usage
