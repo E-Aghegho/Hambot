@@ -1,5 +1,5 @@
 
-# Hambot: Your Shakespearean Phrase Generator in Python
+# Hambot: A Shakespearean Phrase Generator in Python
 
 This Python script generates Shakespearean-sounding phrases using a Markov chain approach. It analyses a provided Shakespearean text (like Act 3, Scene 1 of Hamlet) to build a dictionary where each word maps to a list of words that follow it in the text. The script then uses this dictionary to randomly select words and create a new "sentence" that maintains the flow and style of the original text.
 
