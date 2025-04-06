@@ -29,7 +29,7 @@ pip install collections
 ## Usage - hambot.py
 1. Clone or download this repository.
 2. Save the script (hambot.py) in your desired location.
-3. Run the script from your terminal:
+3. Run the script from your Python terminal.
 
 ```bash
 python hambot.py
